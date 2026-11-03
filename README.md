@@ -1,0 +1,1 @@
+Mondiali di calcio, le squadre nazionali più forti di tutto il mondo giocano tra di loro ogni 4 anni per poter vincere la Coppa del Mondo
