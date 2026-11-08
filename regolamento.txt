@@ -1,4 +1,4 @@
-1. non esiste fuorigioco
+1. non viene considerato il fuorigioco
 2. non si tocca palla con le mani
 3. non si può tirare da prima di metà campo
 4. il portiere non può uscire dall'area 
