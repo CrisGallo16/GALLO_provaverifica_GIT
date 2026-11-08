@@ -1,4 +1,5 @@
 1. non esiste fuorigioco
 2. non si tocca palla con le mani
 3. non si può tirare da prima di metà campo
-4. il portiere non può uscire dalla sua metà campo 
+4. il portiere non può uscire dall'area 
+5. la rimessa si calcia coi piedi
