@@ -1,1 +1,2 @@
-Mondiali di calcio, le squadre nazionali più forti di tutto il mondo giocano tra di loro ogni 4 anni per poter vincere la Coppa del Mondo
+Torneo di calcio scolastico
+ogni venerdì dalle 2 alle 4 le squadre ( formate rispettivamente dalle classi) giocano tra di loro per vincere il torneo scolastico
